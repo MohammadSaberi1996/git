@@ -1,4 +1,3 @@
 node_modules/
 *.txt
 !readme.txt
-js/
